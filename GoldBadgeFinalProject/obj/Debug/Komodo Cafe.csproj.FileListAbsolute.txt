@@ -1,0 +1,10 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\obj\Debug\Komodo Cafe.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\bin\Debug\GoldBadgeFinalProject.exe.config
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\bin\Debug\GoldBadgeFinalProject.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\bin\Debug\GoldBadgeFinalProject.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\bin\Debug\KomodoCafeRepository.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\bin\Debug\KomodoCafeRepository.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\obj\Debug\Komodo Cafe.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\obj\Debug\Komodo Cafe.csproj.CopyComplete
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\obj\Debug\GoldBadgeFinalProject.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\GoldBadgeFinalProject\obj\Debug\GoldBadgeFinalProject.pdb

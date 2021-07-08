@@ -1,0 +1,16 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\obj\Debug\KomodoTest.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\KomodoTest.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\KomodoTest.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\KomodoCafeRepository.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\KomodoCafeRepository.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\obj\Debug\KomodoTest.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\obj\Debug\KomodoTest.csproj.CopyComplete
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\obj\Debug\KomodoTest.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoTest\obj\Debug\KomodoTest.pdb

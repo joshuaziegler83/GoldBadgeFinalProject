@@ -1,0 +1,6 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoCafeRepository\bin\Debug\KomodoCafeRepository.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoCafeRepository\bin\Debug\KomodoCafeRepository.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoCafeRepository\obj\Debug\KomodoCafeRepository.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoCafeRepository\obj\Debug\KomodoCafeRepository.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoCafeRepository\obj\Debug\KomodoCafeRepository.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoCafeRepository\obj\Debug\KomodoCafeRepository.pdb
