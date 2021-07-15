@@ -1,0 +1,10 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\obj\Debug\Komodo Insurance.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\obj\Debug\Komodo Insurance.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\bin\Debug\Komodo Insurance.exe.config
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\bin\Debug\Komodo Insurance.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\bin\Debug\Komodo Insurance.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\bin\Debug\Komodo Insurance Repository.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\bin\Debug\Komodo Insurance Repository.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\obj\Debug\Komodo Insurance.csproj.CopyComplete
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\obj\Debug\Komodo Insurance.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Komodo Insurance\obj\Debug\Komodo Insurance.pdb

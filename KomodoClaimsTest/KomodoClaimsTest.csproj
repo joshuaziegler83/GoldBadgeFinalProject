@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3D33AC0-9DAF-4F6B-A0B5-C9252BAD28D4}</ProjectGuid>
+    <ProjectGuid>{7DA391B7-7671-4733-9D50-8C2568934840}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KomodoTest</RootNamespace>
-    <AssemblyName>KomodoTest</AssemblyName>
+    <RootNamespace>KomodoClaimsTest</RootNamespace>
+    <AssemblyName>KomodoClaimsTest</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -47,18 +47,19 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="KomodoTest.cs" />
+    <Compile Include="KomodoClaimsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\KomodoCafeRepository\KomodoCafeRepository.csproj">
-      <Project>{ef82807a-9ec8-4531-8b46-46536ff704cf}</Project>
-      <Name>KomodoCafeRepository</Name>
+    <ProjectReference Include="..\KomodoClaimsDeptRepo\KomodoClaimsDeptRepo.csproj">
+      <Project>{570740D1-0535-4FB6-BA0E-075C000C6D60}</Project>
+      <Name>KomodoClaimsDeptRepo</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

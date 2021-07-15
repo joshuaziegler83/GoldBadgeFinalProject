@@ -1,0 +1,6 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDeptRepo\bin\Debug\KomodoClaimsDeptRepo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDeptRepo\bin\Debug\KomodoClaimsDeptRepo.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDeptRepo\obj\Debug\KomodoClaimsDeptRepo.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDeptRepo\obj\Debug\KomodoClaimsDeptRepo.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDeptRepo\obj\Debug\KomodoClaimsDeptRepo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDeptRepo\obj\Debug\KomodoClaimsDeptRepo.pdb

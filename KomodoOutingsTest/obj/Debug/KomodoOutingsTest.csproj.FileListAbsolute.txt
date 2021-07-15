@@ -1,0 +1,16 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\KomodoOutingsTest.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\KomodoOutingsTest.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\KomodoOutingsRepo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\KomodoOutingsRepo.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\obj\Debug\KomodoOutingsTest.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\obj\Debug\KomodoOutingsTest.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\obj\Debug\KomodoOutingsTest.csproj.CopyComplete
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\obj\Debug\KomodoOutingsTest.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutingsTest\obj\Debug\KomodoOutingsTest.pdb

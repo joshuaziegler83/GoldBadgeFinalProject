@@ -1,0 +1,10 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\obj\Debug\KomodoOutings.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\obj\Debug\KomodoOutings.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\bin\Debug\KomodoOutings.exe.config
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\bin\Debug\KomodoOutings.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\bin\Debug\KomodoOutings.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\bin\Debug\KomodoOutingsRepo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\bin\Debug\KomodoOutingsRepo.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\obj\Debug\KomodoOutings.csproj.CopyComplete
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\obj\Debug\KomodoOutings.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoOutings\obj\Debug\KomodoOutings.pdb

@@ -1,0 +1,10 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\bin\Debug\KomodoClaimsDept.exe.config
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\bin\Debug\KomodoClaimsDept.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\bin\Debug\KomodoClaimsDept.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\obj\Debug\KomodoClaimsDept.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\obj\Debug\KomodoClaimsDept.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\obj\Debug\KomodoClaimsDept.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\obj\Debug\KomodoClaimsDept.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\bin\Debug\KomodoClaimsDeptRepo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\bin\Debug\KomodoClaimsDeptRepo.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\KomodoClaimsDept\obj\Debug\KomodoClaimsDept.csproj.CopyComplete

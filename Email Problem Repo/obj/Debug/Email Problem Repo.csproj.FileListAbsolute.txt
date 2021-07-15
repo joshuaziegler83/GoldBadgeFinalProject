@@ -1,0 +1,6 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem Repo\bin\Debug\Email Problem Repo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem Repo\bin\Debug\Email Problem Repo.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem Repo\obj\Debug\Email Problem Repo.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem Repo\obj\Debug\Email Problem Repo.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem Repo\obj\Debug\Email Problem Repo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem Repo\obj\Debug\Email Problem Repo.pdb

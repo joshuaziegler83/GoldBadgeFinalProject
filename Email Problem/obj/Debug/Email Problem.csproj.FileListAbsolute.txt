@@ -1,0 +1,12 @@
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\bin\Debug\Email Problem.exe.config
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\bin\Debug\Email Problem.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\bin\Debug\Email Problem.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\obj\Debug\Email Problem.csproj.CoreCompileInputs.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\obj\Debug\Email Problem.exe
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\obj\Debug\Email Problem.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\bin\Debug\Email Problem Repo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\bin\Debug\KomodoClaimsDeptRepo.dll
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\bin\Debug\Email Problem Repo.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\bin\Debug\KomodoClaimsDeptRepo.pdb
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\obj\Debug\Email Problem.csproj.AssemblyReference.cache
+C:\Users\matht\source\repos\GoldBadgeFinalProject\Email Problem\obj\Debug\Email Problem.csproj.CopyComplete
