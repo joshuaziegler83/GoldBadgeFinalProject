@@ -13,16 +13,6 @@ namespace KomodoInsuranceTest
         public List<Badge> _badges = new List<Badge>();
 
         [TestMethod]
-        public void ShouldGetBadgeByID()
-        {
-            List<string> doorNames = new List<string>();
-            Badge expectedBadge = new Badge(1, "Bob", doorNames);
-            _repo.AddNewBadge(expectedBadge);
-            var actualBadge = _repo.GetBadgeByBadgeID(1);
-            Assert.AreEqual(expectedBadge, actualBadge);
-        }
-        
-        [TestMethod]
         public void ShouldAddItemToMenu()
         {
             List<string> doorNames = new List<string>();
@@ -43,6 +33,16 @@ namespace KomodoInsuranceTest
             bool passed = _repo.DeleteAllDoorsFromBadge(newBadge);
 
             Assert.IsTrue(passed);
+        }
+
+        [TestMethod]
+        public void ShouldGetBadgeByID()
+        {
+            List<string> doorNames = new List<string>();
+            Badge expectedBadge = new Badge(1, "Bob", doorNames);
+            _repo.AddNewBadge(expectedBadge);
+            var actualBadge = _repo.GetBadgeByBadgeID(1);
+            Assert.AreEqual(expectedBadge, actualBadge);
         }
     }
 }

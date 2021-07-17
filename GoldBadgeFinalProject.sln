@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KomodoInsurance", "KomodoIn
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KomodoOutings", "KomodoOutings", "{0AE698C6-957E-4A34-86AE-9D28BF859E06}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmailProblem", "EmailProblem", "{05E2C60B-C29D-4813-B10D-2CF1B4C99FC5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KomodoEmailProblem", "KomodoEmailProblem", "{05E2C60B-C29D-4813-B10D-2CF1B4C99FC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeRepository", "KomodoCafeRepository\KomodoCafeRepository.csproj", "{EF82807A-9EC8-4531-8B46-46536FF704CF}"
 EndProject
